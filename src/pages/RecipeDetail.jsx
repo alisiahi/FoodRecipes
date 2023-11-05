@@ -86,7 +86,7 @@ const RecipeDetail = () => {
               {recipe?.ingredientLines?.map((ingredient, index) => {
                 return (
                   <p key={index} className="text-neutral-100 flex gap-2">
-                    {ingredient}
+                    <BsPatchCheck color="green" /> {ingredient}
                   </p>
                 );
               })}
