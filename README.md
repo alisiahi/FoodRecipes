@@ -57,12 +57,12 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/alisiahi/FoodRecepies.git
+   git clone https://github.com/alisiahi/FoodRecipes.git
 
 2. Install the project's dependencies:
 
    ```bash
-   cd FoodRecepies
+   cd FoodRecipes
    npm install
 
 3. Set up environment variables:
